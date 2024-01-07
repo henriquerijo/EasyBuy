@@ -1,2 +1,2 @@
 # EasyBuy
-Development project for a clothing store 
+Development project for a store 
